@@ -19,7 +19,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackx-op&show_icons=true&locale=en&layout=compact" alt="hackx-op" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackx-op&show_icons=true&locale=en" alt="hackx-op" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackx-op&" alt="hackx-op" /></p>
