@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackx-op&label=Profile%20views&color=0e75b6&style=flat" alt="hackx-op" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rock_utkarshraj" target="blank"><img src="https://img.shields.io/twitter/follow/rock_utkarshraj?logo=twitter&style=for-the-badge" alt="rock_utkarshraj" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://cdn.elearningindustry.com/wp-content/uploads/2020/10/what-are-the-benefits-of-animation-based-learning.jpg">
 
 - 🌱 I’m currently learning **DevOps**
 
